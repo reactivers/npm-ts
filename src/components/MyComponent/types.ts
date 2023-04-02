@@ -1,3 +1,3 @@
 export interface IMyType {
-    propName: string;
+  propName: string;
 }
